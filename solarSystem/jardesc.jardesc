@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/micha/OneDrive/Desktop/solarSystemSimulator.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/solarSystem/jardesc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=solarSystem/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;uos.solarSystem{SolarSystemApp.java[SolarSystemApp" manifestLocation="/solarSystem/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <file path="/solarSystem/jardesc.jardesc"/>
+        <file path="/solarSystem/.gitignore"/>
+        <javaElement handleIdentifier="=solarSystem/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=solarSystem/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/solarSystem/.project"/>
+        <folder path="/solarSystem/target"/>
+        <file path="/solarSystem/pom.xml"/>
+        <folder path="/solarSystem/src"/>
+        <file path="/solarSystem/.classpath"/>
+    </selectedElements>
+</jardesc>
